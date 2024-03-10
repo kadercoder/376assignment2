@@ -4,19 +4,14 @@ This project implements a set of REST APIs to retrieve information from a Twitte
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository or download python script:
+git clone https://github.com/kadercoder/376assignment2.git
 
-git clone https://github.com/your-username/twitter-archive-api.git
-
-
-2. Install the required dependencies:
-
-pip install -r requirements.txt
-
+2. Install the required json file (favs.json):
 
 3. Run the Flask application:
 
-python app.py
+python assignment2.py
 
 ## Usage
 
