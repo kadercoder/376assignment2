@@ -8,7 +8,7 @@ This project implements a set of REST APIs to retrieve information from a Twitte
    
      git clone https://github.com/kadercoder/376assignment2.git
 
-2. Keep a Twitter archive JSON file in the same directory. This repo already has one name favs.json.
+2. Keep a Twitter archive JSON file in the same directory. This repo already has one named favs.json.
 
 3. Run the Flask application:
    
